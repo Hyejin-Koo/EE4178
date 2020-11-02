@@ -24,7 +24,7 @@ Pytorch 실습
 
 ### 02. Intermediate
 
-- CNN(Convolutioanl Neural Network)-MNIST
+- [CNN(Convolutioanl Neural Network)-MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/9235db115e3960234eb5b16ff24e253f)
 
 - RNN(Recurrent Nerual Network)-MNIST
 
