@@ -1,8 +1,14 @@
 # EE4178 (2020 Fall)
-인공지능(딥러
-
+인공지능(딥러닝)개론
 Pytorch 실습
+- 실습환경
+  * 언어: Python3.6 (3.5+)
+  * 딥러닝 프레임워크: Pytorch1.6 (1.2+)
+  * 실습 환경: [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+ 
+
 ---
+
 ## Contents
 
 ### 01. Basics
