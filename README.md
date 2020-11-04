@@ -1,1 +1,37 @@
-# EE4178
+# EE4178 (2020 Fall)
+인공지능(딥러닝)개론
+Pytorch 실습
+- 실습환경
+  * 언어: Python3.6 (3.5+)
+  * 딥러닝 프레임워크: Pytorch1.6 (1.2+)
+  * 실습 환경: [Google Colab](https://colab.research.google.com/notebooks/intro.ipynb#recent=true)
+ 
+
+---
+
+## Contents
+
+### 01. Basics
+
+- [Google Colab and Basic Python](https://nbviewer.jupyter.org/gist/Hyejin-Koo/6294afd92129f2637a0493d09ddf8230)
+
+- [Pytorch (simple network with CIFAR10)](https://nbviewer.jupyter.org/gist/Hyejin-Koo/c45a7818e0dd3d931a8517669bf69eb8)
+
+- [XOR network](https://nbviewer.jupyter.org/gist/Hyejin-Koo/0c719935de56b5cca2134a9587c532ed)
+
+- Linear Regression Model
+
+
+### 02. Intermediate
+
+- [CNN(Convolutioanl Neural Network)-MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/9235db115e3960234eb5b16ff24e253f)
+
+- RNN(Recurrent Nerual Network)-MNIST
+
+- VAE
+
+### 03. Advanced
+
+- Custom Dataloader
+
+
