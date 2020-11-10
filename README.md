@@ -26,11 +26,14 @@ Pytorch 실습
 
 - [CNN(Convolutioanl Neural Network)-MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/6c5d22c0974b90b335370146da4b1765)
 
+- [Look inside CNN](https://nbviewer.jupyter.org/gist/Hyejin-Koo/5413d75a20b871aea096aab4bf8a99e1)
+
 - RNN(Recurrent Nerual Network)-MNIST
 
-- VAE
 
 ### 03. Advanced
+
+- VAE
 
 - Custom Dataloader
 
