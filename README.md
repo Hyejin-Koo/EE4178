@@ -28,12 +28,12 @@ Pytorch 실습
 
 - [Look inside CNN](https://nbviewer.jupyter.org/gist/Hyejin-Koo/5413d75a20b871aea096aab4bf8a99e1)
 
-- RNN(Recurrent Nerual Network)-MNIST
+- RNN(Recurrent Nerual Network)-MNIST]
+
+- VAE
 
 
 ### 03. Advanced
-
-- VAE
 
 - Custom Dataloader
 
