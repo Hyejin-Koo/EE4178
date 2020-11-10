@@ -28,7 +28,7 @@ Pytorch 실습
 
 - [Look inside CNN](https://nbviewer.jupyter.org/gist/Hyejin-Koo/5413d75a20b871aea096aab4bf8a99e1)
 
-- RNN(Recurrent Nerual Network)-MNIST]
+- [RNN(Recurrent Neural Network)-MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/facdeae76521a274a9ca1449f451759e)
 
 - VAE
 
