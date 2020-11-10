@@ -1,4 +1,4 @@
-## Day 2 ~ . Intermediate
+## Day 2 ~ . IM
 
 > [Basic CNN(Convolution Neural Network) with MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/6c5d22c0974b90b335370146da4b1765) 
 
