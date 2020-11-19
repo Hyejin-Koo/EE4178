@@ -30,7 +30,7 @@ Pytorch 실습
 
 - [RNN(Recurrent Neural Network)-MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/c084bb5d83bed3ccb333817d7326924a)
 
-- [Simple Sentiment Classfier-IMDB]()
+- [Simple Sentiment Classfier-IMDB](https://nbviewer.jupyter.org/gist/Hyejin-Koo/94b0419bee60e2ee01a7381953fb340b)
 
 - VAE
 
