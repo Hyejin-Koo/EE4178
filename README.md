@@ -28,7 +28,9 @@ Pytorch 실습
 
 - [Look inside CNN](https://nbviewer.jupyter.org/gist/Hyejin-Koo/5413d75a20b871aea096aab4bf8a99e1)
 
-- [RNN(Recurrent Neural Network)-MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/facdeae76521a274a9ca1449f451759e)
+- [RNN(Recurrent Neural Network)-MNIST](https://nbviewer.jupyter.org/gist/Hyejin-Koo/c084bb5d83bed3ccb333817d7326924a)
+
+- [Simple Sentiment Classfier-IMDB]()
 
 - VAE
 
