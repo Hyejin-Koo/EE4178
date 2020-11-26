@@ -32,7 +32,7 @@ Pytorch 실습
 
 - [Simple Sentiment Classfier-IMDB](https://nbviewer.jupyter.org/gist/Hyejin-Koo/b38b0434b355c20e9e5b44fd714ce8f9)
 
-- VAE
+- [VAE](https://nbviewer.jupyter.org/gist/Hyejin-Koo/eef3f462be540ee668cb765761132881)
 
 
 ### 03. Advanced
