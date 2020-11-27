@@ -10,11 +10,11 @@ import matplotlib.pyplot as plt
 
 class TypeData(Dataset):
   '''
-### DigitÀÏ °æ¿ì label·Î 0À», ###
-### LetterÀÏ °æ¿ì label·Î 1À» ###
-### returnÇÏ´Â classÀÔ´Ï´Ù. ###
+### Digitì¼ ê²½ìš° labelë¡œ 0ì„, ###
+### Letterì¼ ê²½ìš° labelë¡œ 1ì„ ###
+### returní•˜ëŠ” classì…ë‹ˆë‹¤. ###
 
-»ç¿ë ¿¹½Ã:
+ì‚¬ìš© ì˜ˆì‹œ:
 train_data = TypeData(train=True)
 test_data = TypeData(train=False)
   '''
@@ -31,7 +31,7 @@ test_data = TypeData(train=False)
                                         download=True)
 
   def __getitem__(self, index):
-    if self.data[index][1] <= self.digit:
+    if self.data[index][1] < self.digit:
       label = 0.
     else:
       label = 1.
@@ -42,7 +42,7 @@ test_data = TypeData(train=False)
 
 
 
-### train ¶Ç´Â test dataset¿¡ ´ëÇÏ¿©, numÀÇ ¼ö¸¸Å­ subplotÀ» º¸¿©ÁÖ´Â ÇÔ¼öÀÔ´Ï´Ù.
+### train ë˜ëŠ” test datasetì— ëŒ€í•˜ì—¬, numì˜ ìˆ˜ë§Œí¼ subplotì„ ë³´ì—¬ì£¼ëŠ” í•¨ìˆ˜ì…ë‹ˆë‹¤.
 def image_show(dataset, num):
   fig = plt.figure(figsize=(30,30))
 
