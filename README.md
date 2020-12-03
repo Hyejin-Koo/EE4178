@@ -32,10 +32,12 @@ Pytorch 실습
 
 - [Simple Sentiment Classfier-IMDB](https://nbviewer.jupyter.org/gist/Hyejin-Koo/b38b0434b355c20e9e5b44fd714ce8f9)
 
-- [VAE](https://nbviewer.jupyter.org/gist/Hyejin-Koo/eef3f462be540ee668cb765761132881)
+- [Transfer Learning](https://nbviewer.jupyter.org/gist/Hyejin-Koo/67fc9dca82a50085b5a372c669177f5d)
 
 
 ### 03. Advanced
+
+- [VAE](https://nbviewer.jupyter.org/gist/Hyejin-Koo/67fc9dca82a50085b5a372c669177f5d)
 
 - Custom Dataloader
 
