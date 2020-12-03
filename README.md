@@ -37,7 +37,7 @@ Pytorch 실습
 
 ### 03. Advanced
 
-- [VAE](https://nbviewer.jupyter.org/gist/Hyejin-Koo/67fc9dca82a50085b5a372c669177f5d)
+- [VAE](https://nbviewer.jupyter.org/gist/Hyejin-Koo/596ea762afcb4d917b4ac84be7ef976f)
 
 - Custom Dataloader
 
