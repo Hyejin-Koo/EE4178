@@ -49,6 +49,10 @@ test_data = TypeData(train=False)
     else:
       label = 1.
     return self.data[index][0], label
+  
+  # nn.CrossEntropyLoss()를 사용하는 경우, train 코드에서
+  # labels = labels.to(device, dtype=long) 또는,
+  # labels = labels.to(device).long() 과 같은 방법으로 data type을 변경하여 사용해 보세요.
 
   def __len__(self):
     return len(self.data)
