@@ -15,6 +15,8 @@ print("Training takes {:.2f}minutes".format(duration/60)) #초 단위로 저장�
 ```
 
 
+
+
 ### GPU 확인
 ```python
 !nvidia-smi
