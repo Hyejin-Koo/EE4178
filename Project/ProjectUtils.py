@@ -1,12 +1,24 @@
 #-*- coding: utf-8 -*-
 
 
+import random
 import torch
 import torchvision
 import torch.nn as nn
 from torch.utils.data import Dataset
 import torchvision.transforms as transforms
 import matplotlib.pyplot as plt
+
+
+###Python Random Seed 고정###
+SEED = 1234 # 원하는 seed값을 사용하시면 됩니다.
+
+random.seed(SEED) # python에서 random 한 부분을 해당 seed값으로 고정합니다.
+torch.manual_seed(SEED) # torch에서 random한 부분을 해당 seed값으로 고정합니다.
+torch.cuda.manual_seed(SEED) # torch의 cuda연산에서 random한 부분을 해당 seed값으로 고정합니다.
+
+###----------------------###
+
 
 
 class TypeData(Dataset):
