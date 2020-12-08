@@ -65,5 +65,5 @@ def image_show(dataset, num):
 
   for i in range(num):
     plt.subplot(1, num, i+1)
-    plt.imshow(dataset[i][0].squeeze())
+    plt.imshow(dataset[i][0].squeeze().T)
     plt.title(dataset[i][1])
