@@ -19,7 +19,7 @@ Pytorch 실습
 
 - [XOR network](https://nbviewer.jupyter.org/gist/Hyejin-Koo/0c719935de56b5cca2134a9587c532ed)
 
-- [Linear Regression Model](https://nbviewer.jupyter.org/gist/Hyejin-Koo/a1a13d92d7c7cde55c6cc9f9035d6500)
+- [Linear Regression Model](https://nbviewer.jupyter.org/gist/Hyejin-Koo/e1e25cfffc0f0b61870d8c75fec935c5)
 
 
 ### 02. Intermediate
